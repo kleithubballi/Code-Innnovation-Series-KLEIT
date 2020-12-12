@@ -1,0 +1,5 @@
+Usually it is difficult to remember the prescription as patients find it hard to memorize the names of tablet pills or medicine.
+Taking medicine on time is very important for patient inorder to recover to good health.
+When a patient is suffering from more than two diseases it becomes a tedious job to follow the prescription.
+So, let us consider an instance where a patient is suffering from Heart problem, diabetes and Blood pressure problems and each disease has three different medicine to be taken on three different times.
+We are trying to develop a web app which eases the patient by altering him/her with proper medicine name and it's schedule.
